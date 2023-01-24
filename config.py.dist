@@ -6,7 +6,7 @@ fi_password = "XXXXXXXX"
 todoist_key = "XXXXXXXX"
 
 # Todoist Attributes (follow API examples)
-project_id = 2286069241
+project_id = XXXXXXXXXX
 task_title = "Charge XXXXXXX's Collar"
 task_priority = 3
 due_string = "today"
