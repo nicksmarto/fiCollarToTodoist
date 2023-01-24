@@ -1,0 +1,17 @@
+# Fi Collar Login (your password for Fi)
+fi_username = "XXXXXXXX"
+fi_password = "XXXXXXXX"
+
+# TODOIST key from https://developer.todoist.com/appconsole.html
+todoist_key = "XXXXXXXX"
+
+# Todoist Attributes (follow API examples)
+project_id = 2286069241
+task_title = "Charge XXXXXXX's Collar"
+task_priority = 3
+due_string = "today"
+
+#Battery threshold for task creation (whole number as percentage)
+batteryThreshold = 25
+
+
