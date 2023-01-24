@@ -1,3 +1,4 @@
 config.py
 __pycache__/
 fi-todo-logger.log
+.DS_Store/
